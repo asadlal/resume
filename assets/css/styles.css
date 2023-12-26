@@ -524,6 +524,10 @@ img{
   margin-bottom: 0;
 }
 
+.languages__name.last__language{
+  margin-bottom: 0;
+}
+
 /*========== CERTIFICATES ==========*/
 .certificate__title{
   font-size: var(--h3-font-size);
